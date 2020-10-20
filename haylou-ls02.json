@@ -1,0 +1,120 @@
+{
+    "brand": "Fitwise",
+    "company": "Alphabet Enterprise Ltd.",
+    "site-logo": "https://storage.googleapis.com/product_funnel/assets/site-logo.svg",
+    "overview": {
+        "title": "Fitness Smart Watch",
+        "price": "4750",
+        "currency": "Rs. ",
+        "images": [
+            "https://storage.googleapis.com/product_funnel/assets/product/ls02-front.png",
+            "https://storage.googleapis.com/product_funnel/assets/product/ls02-side.png",
+            "https://storage.googleapis.com/product_funnel/assets/product/ls02-back.png"
+        ],
+        "summary": "The future of health is in your wrist. It works as your fitness tracker as well as your mini phone.",
+        "highlights": ["Cash on delivery", "30-Day Money back gurantee", "No replica, Original guranteed"]
+    },
+    "features": {
+        "intro": "Let's just admit apple smart watch is highly overpriced, you deserve better value for your money. Introducing Fitwise™ smartwatch which is not only affordable but supports all major fetaures.",
+        "benefits": [
+            {
+                "title": "Pedometer",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/pedometer.svg",
+                "body": "Track your physical activitiy throughout the day and motivates you adopt a healthy lifestyle."
+            },
+            {
+                "title": "Real-Time Heart Rate Monitor",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/heart-rate.svg",
+                "body": "Helps you keep track of your heart rate througout different activities and make sure that it is within range."
+            },
+            {
+                "title": "Blood Pressure Monitor",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/blood-pressure.svg",
+                "body": "Keeps an eye on your blood pressure and timely notifies you if its out of healthier range."
+            },
+            {
+                "title": "12 Sports Mode",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/sports-mode.svg",
+                "body": "Allows you to track your goals and activities for 12 sport modes. Helps you keep discipline and get organized."
+            },
+            {
+                "title": "Intelligent Sleep Monitoring",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/sleep-monitor.svg",
+                "body": "Helps you develope better sleep habits by tracking your sleep quality thus you can be more energetic each day."
+            },
+            {
+                "title": "Sedentary Reminder",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/sedentary.svg",
+                "body": "Sitting all day long is bad for health. It reminds you to take a break for your health by giving you vibration on your wrist."
+            },
+            {
+                "title": "Mobile Notifications",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/notification.svg",
+                "body": "Helps you to read your mobile notifications without acually raching out to your phone."
+            },
+            {
+                "title": "Repalceable Straps",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/watch-strap.svg",
+                "body": "You can use your favoutire 22mm watch straps by replacing the original ones."
+            },
+            {
+                "title": "Waterproof",
+                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/water-proof.svg",
+                "body": "You can wear this watch while bathing, outside in the rain or swimming in the pool. It's IP68 waterproof resistant."
+            }
+        ]
+    },
+    "faqs": [
+        {
+            "question": "Does it have any other color than black?",
+            "answer": "The original version of this watch only comes in black color. However, you can use any 22mm starp with this watch to give it a personalised look."
+        },
+        {
+            "question": "How long is the battery life?",
+            "answer": "The battery lasts as long as 14 days with 24-hour heart rate monitoring. It has a stable standby time of 20 days."
+        },
+        {
+            "question": "Does it work with both Android and iOS?",
+            "answer": "Yes, the watch works with both Android and iOS. You can download it's companion software from Google Play or App Store."
+        },
+        {
+            "question": "Does it have built-in GPS tracker?",
+            "answer": "No, this version of the watch does not have built-in GPS tracker. You've to have your phone with you to use it's tracker functionality."
+        },
+        {
+            "question": "Can we use it to attend or make calls?",
+            "answer": "No, you cannot make or attend calls with this watch. However, you can receive message and call alerts."
+        },
+        {
+            "question": "Do you offer a money back gurantee?",
+            "answer": "Yes, we do offer money back gurantee once you return the watch back to us."
+        }
+    ],
+    "reviews": [
+        { 
+            "author": "Simran R.",
+            "rating": 5,
+            "text": "Nice watch, great looking, delivered on time. It was well packed and sealed."
+        },
+        {
+            "author": "Osama S.",
+            "rating": 4.3,
+            "text": "It's a budget range smartwatch but I must say it is greate value for the money."
+        },
+        {
+            "author": "Zahid I.",
+            "rating": 4,
+            "text": "Screen is a bit small for my liking but I guess for most it won't be an issue. Great watch overall."
+        },
+        {
+            "author": "Affan T.",
+            "rating": 4.8,
+            "text": "It was getting disconnected, but after software update it's all fine now."
+        },
+        {
+            "author": "Talha J.",
+            "rating": 4.7,
+            "text": "Well packed. Delivered before time. Amzing features in this price bracket."
+        }
+    ]
+}
