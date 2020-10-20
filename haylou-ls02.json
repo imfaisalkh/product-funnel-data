@@ -5,6 +5,10 @@
         "site-logo": "https://storage.googleapis.com/product_funnel/assets/site-logo.svg",
         "promotion": "<strong>Free Delivery</strong> - On all orders nation-wide</p>"
     },
+    "seo": {
+        "title": "Smart Watch by Fitwise™",
+        "description": "A amazing fitness smart watch in budget range. The future of your health is on your wrist."
+    },
     "overview": {
         "title": "Fitness Smart Watch",
         "price": "4750",
