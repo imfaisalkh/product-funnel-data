@@ -1,7 +1,9 @@
 {
-    "brand": "Fitwise",
-    "company": "Alphabet Enterprise Ltd.",
-    "site-logo": "https://storage.googleapis.com/product_funnel/assets/site-logo.svg",
+    "general": {
+        "brand": "Fitwise",
+        "company": "Alphabet Enterprise Ltd.",
+        "site-logo": "https://storage.googleapis.com/product_funnel/assets/site-logo.svg"
+    },
     "overview": {
         "title": "Fitness Smart Watch",
         "price": "4750",
