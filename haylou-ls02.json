@@ -22,8 +22,8 @@
         "summary": "The future of health is in your wrist. It works as your fitness tracker as well as your mini phone.",
         "highlights": ["Cash on delivery", "30-Day Money back gurantee", "No replica, Original guranteed"],
         "checkout": {
-            "type": "messenger",
-            "handler": "imfaisalkh"
+            "type": "whatsapp",
+            "handler": "923004999419"
         }
     },
     "features": {
