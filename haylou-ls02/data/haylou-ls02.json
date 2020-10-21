@@ -2,7 +2,7 @@
     "general": {
         "brand": "Fitwise",
         "company": "Alphabet Enterprise Ltd.",
-        "site-logo": "https://storage.googleapis.com/product_funnel/assets/site-logo.svg",
+        "site_logo": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/site-logo.svg",
         "promotion": "<strong>Free Delivery</strong> - On all orders nation-wide</p>"
     },
     "seo": {
@@ -15,9 +15,9 @@
         "price": "3750",
         "currency": "Rs. ",
         "images": [
-            "https://storage.googleapis.com/product_funnel/assets/product/ls02-front.png",
-            "https://storage.googleapis.com/product_funnel/assets/product/ls02-side.png",
-            "https://storage.googleapis.com/product_funnel/assets/product/ls02-back.png"
+            "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/product/ls02-front.png",
+            "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/product/ls02-side.png",
+            "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/product/ls02-back.png"
         ],
         "video": "",
         "summary": "The future of health is in your wrist. It works as your fitness tracker as well as your mini phone.",
@@ -32,47 +32,47 @@
         "benefits": [
             {
                 "title": "Pedometer",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/pedometer.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/pedometer.svg",
                 "body": "Track your physical activitiy throughout the day and motivates you adopt a healthy lifestyle."
             },
             {
                 "title": "Real-Time Heart Rate Monitor",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/heart-rate.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/heart-rate.svg",
                 "body": "Helps you keep track of your heart rate througout different activities and make sure that it is within range."
             },
             {
                 "title": "Blood Pressure Monitor",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/blood-pressure.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/blood-pressure.svg",
                 "body": "Keeps an eye on your blood pressure and timely notifies you if its out of healthier range."
             },
             {
                 "title": "12 Sports Mode",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/sports-mode.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/sports-mode.svg",
                 "body": "Allows you to track your goals and activities for 12 sport modes. Helps you keep discipline and get organized."
             },
             {
                 "title": "Intelligent Sleep Monitoring",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/sleep-monitor.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/sleep-monitor.svg",
                 "body": "Helps you develope better sleep habits by tracking your sleep quality thus you can be more energetic each day."
             },
             {
                 "title": "Sedentary Reminder",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/sedentary.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/sedentary.svg",
                 "body": "Sitting all day long is bad for health. It reminds you to take a break for your health by giving you vibration on your wrist."
             },
             {
                 "title": "Mobile Notifications",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/notification.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/notification.svg",
                 "body": "Helps you to read your mobile notifications without acually raching out to your phone."
             },
             {
                 "title": "Repalceable Straps",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/watch-strap.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/watch-strap.svg",
                 "body": "You can use your favoutire 22mm watch straps by replacing the original ones."
             },
             {
                 "title": "Waterproof",
-                "icon": "https://storage.googleapis.com/product_funnel/assets/icons/water-proof.svg",
+                "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/water-proof.svg",
                 "body": "You can wear this watch while bathing, outside in the rain or swimming in the pool. It's IP68 waterproof resistant."
             }
         ]

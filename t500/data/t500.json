@@ -2,7 +2,7 @@
     "general": {
         "brand": "Fitwise",
         "company": "Alphabet Enterprise Ltd.",
-        "site-logo": "https://storage.googleapis.com/product_funnel/assets/site-logo.svg",
+        "site_logo": "https://storage.googleapis.com/product_funnel/assets/site-logo.svg",
         "promotion": "<strong>Free Delivery</strong> - On all orders nation-wide</p>"
     },
     "overview": {
