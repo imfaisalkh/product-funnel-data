@@ -16,7 +16,11 @@
         ],
         "video": "",
         "summary": "The future of health is in your wrist. It works as your fitness tracker as well as your mini phone.",
-        "highlights": ["Cash on delivery", "30-Day Money back gurantee", "No replica, Original guranteed"]
+        "highlights": ["Cash on delivery", "30-Day Money back gurantee", "No replica, Original guranteed"],
+        "checkout": {
+            "type": "whatsapp",
+            "handler": "923004999419"
+        }
     },
     "features": {
         "intro": "Let's just admit apple smart watch is highly overpriced, you deserve better value for your money. Introducing Fitwise™ smartwatch which is not only affordable but supports all major fetaures.",
