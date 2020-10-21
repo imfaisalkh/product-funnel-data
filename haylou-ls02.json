@@ -23,7 +23,7 @@
         "highlights": ["Cash on delivery", "30-Day Money back gurantee", "No replica, Original guranteed"],
         "checkout": {
             "type": "messenger",
-            "handler": "fitwise"
+            "handler": "imfaisalkh"
         }
     },
     "features": {
