@@ -1,12 +1,12 @@
 {
     "general": {
-        "brand": "Fitwise",
+        "brand": "Qaasid",
         "company": "Alphabet Enterprise Ltd.",
         "site_logo": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/site-logo.svg",
         "promotion": "<strong>Free Delivery</strong> - On all orders nation-wide</p>"
     },
     "seo": {
-        "title": "Smart Watch by Fitwise™",
+        "title": "Smart Watch by Qaasid™",
         "description": "A amazing fitness smart watch in budget range. The future of your health is on your wrist."
     },
     "overview": {
@@ -28,7 +28,7 @@
         }
     },
     "features": {
-        "intro": "Let's just admit apple smart watch is highly overpriced, you deserve better value for your money. Introducing Fitwise™ smartwatch which is not only affordable but supports all major fetaures.",
+        "intro": "Let's just admit apple smart watch is highly overpriced, you deserve better value for your money. Introducing Qaasid™ smartwatch which is not only affordable but supports all major fetaures.",
         "benefits": [
             {
                 "title": "Pedometer",
