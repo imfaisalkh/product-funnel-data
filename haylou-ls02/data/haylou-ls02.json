@@ -11,7 +11,7 @@
     },
     "overview": {
         "sticker": "Limited Edition",
-        "title": "فٹنس سمارٹ واچ",
+        "title": "Fitness Smart Watch",
         "price": "3750",
         "currency": "Rs. ",
         "images": [
@@ -28,17 +28,17 @@
         }
     },
     "features": {
-        "intro": "ایپل کی سمارٹ واچ ہم میں سے بہت قلیل افراد افورڈ کر سکتے ہیں۔ آپ اس سے بہتر کے مستحق ہیں، اسی لئے ہم متعارف کروارہے ہیں یہ سمارٹ واچ جو تمام بنیادی فوائد فراہم کرتی ہے۔",
+        "intro": "Let's just admit apple smart watch is highly overpriced, you deserve better value for your money. Introducing Qaasid™ smartwatch which is not only affordable but supports all major fetaures.",
         "benefits": [
             {
-                "title": "پیڈو میٹر",
+                "title": "Pedometer",
                 "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/pedometer.svg",
-                "body": "یہ آپکی دن بھر کی جانے والی فزیکل ایکٹویٹی کا حساب رکھتی ہے اور آپکو صحتمندانہ طرز زندگی اختیار کرنے کی جانب رغبت دیتی ہے۔"
+                "body": "Track your physical activitiy throughout the day and motivates you adopt a healthy lifestyle."
             },
             {
-                "title": "دل دھڑکنے کی رفتار",
+                "title": "Real-Time Heart Rate Monitor",
                 "icon": "https://raw.githubusercontent.com/imfaisalkh/product-funnel-db/main/haylou-ls02/images/icons/heart-rate.svg",
-                "body": "یہ آپکے دل دھڑکنے کی رفتار کا حساب رکھتی ہے ،لحاظہ آپ اس بات کو یقینی بنا سکتے ہیں کہ آپکے دل کی رفتار ایک خاص حد میں رہے۔"
+                "body": "Helps you keep track of your heart rate througout different activities and make sure that it is within range."
             },
             {
                 "title": "Blood Pressure Monitor",
